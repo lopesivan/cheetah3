@@ -1,3 +1,11 @@
+```console
+  set CHEETAH_C_EXTENSIONS_REQUIRED=1 
+  
+  pip install .
+```
+
+
+
 Cheetah Template 3.2.5a0
 ========================
 
