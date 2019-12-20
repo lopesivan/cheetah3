@@ -1,8 +1,3 @@
-```
-set CHEETAH_C_EXTENSIONS_REQUIRED=1
-pip install .
-```
-
 Cheetah Template 3.2.5a0
 ========================
 
@@ -26,6 +21,7 @@ Credits
 https://cheetahtemplate.org/authors.html
 
 https://github.com/CheetahTemplate3/cheetah3/blob/master/LICENSE
+
 
 Praise
 ------
